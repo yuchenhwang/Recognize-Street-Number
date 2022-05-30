@@ -1,5 +1,5 @@
 # Recognize Street Number
-Welcome to the project on classification using Convolutional Neural Networks. We will continue to work with the Street View Housing Numbers (SVHN) image dataset for this project.
+Welcome to the project on classification using Convolutional Neural Networks. We will work with the Street View Housing Numbers (SVHN) image dataset for this project.
 
 ## Context:
 One of the most interesting tasks in deep learning is to recognize objects in natural scenes. The ability to process visual information using machine learning algorithms can be very useful as demonstrated in various applications.
